@@ -1,0 +1,47 @@
+/* table css start */
+td input{
+    width: 50px;
+}
+td img{
+    width: 50px;
+    border-radius: 2px;
+    margin-right: 10px;
+}.cart-info{
+    display: flex;
+    flex-wrap: wrap;
+}
+/* table css end */
+
+/* image box-sizing css start */
+.total-price{
+    display: flex;
+    justify-content: flex-end;
+}
+.total-price table{
+    border-top: 3px solid #fea116;
+    width: 100%;
+    max-width: 400px;
+}
+td:last-child{
+    text-align: right;
+}
+th:last-child{
+    text-align: right;
+}
+thead{
+    background-color: #fea116;
+    color: white;
+}
+.buttn .button-remove{
+    height: 3.5vh ;
+    font-size: .6em;
+    position: relative;
+    left: 90%;
+}
+.category{
+    display: gird;
+    grid-column: column;
+}
+
+
+
