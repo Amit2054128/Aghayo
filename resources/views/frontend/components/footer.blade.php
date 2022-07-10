@@ -51,8 +51,6 @@
 </div> -->
 <!-- Footer End -->
 
-
-ankit is a good boy 
 <!-- Newsletter Start -->
 <!-- <div class="col-lg-3 col-md-6">
                 <h4 class="section-title ff-secondary text-start text-primary fw-normal mb-4">Newsletter</h4>
